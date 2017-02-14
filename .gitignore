@@ -49,3 +49,6 @@ fabric.properties
 ## Django
 __pycache__
 db.sqlite3
+
+## large data
+data/*
